@@ -1,0 +1,26 @@
+Starting toyota
+Starting bmw
+----------TOYOTA MAXSPEED---------
+Max speed = 200
+Max speed = 200
+Max speed = 200
+----------BMW MAXSPEED---------
+Max speed = 200
+Max speed = 100
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 100
+Max speed = 100
+Max speed = 200
+Max speed = 200
+Max speed = 100
+Max speed = 100
+Thread bmw exiting.
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Thread toyota exiting.

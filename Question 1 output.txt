@@ -1,0 +1,22 @@
+----------BMW MAXSPEED---------
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+Max speed = 100
+----------TOYOTA MAXSPEED---------
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
+Max speed = 200
